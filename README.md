@@ -167,25 +167,28 @@ This project demonstrates practical knowledge of:
 
 ## 📷 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-```markdown
-![Home Page](screenshots/home-page.png)
-```
+![Home Page](screenshots/Home.png)
 
-### Gallery Page
+### ℹ️ About Page
 
-```markdown
-![Gallery Page](screenshots/gallery-page.png)
-```
+![About Page](screenshots/About.png)
 
-### Registration Page
 
-```markdown
-![Registration Page](screenshots/registration-page.png)
-```
+### 🖼️ Gallery Page
 
-> Add screenshots to a `screenshots` folder and update the paths accordingly.
+![Gallery Page](screenshots/Gallery.png)
+
+### 👤 Registration Page
+
+![Registration Page](screenshots/Registration.png)
+
+### 📞 Contact Page
+
+![Contact Page](screenshots/Contact.png)
+
+
 
 ---
 
